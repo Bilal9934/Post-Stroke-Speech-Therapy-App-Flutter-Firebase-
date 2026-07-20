@@ -20,7 +20,6 @@ The app provides a simple, user-friendly interface and securely tracks patient p
 - Firebase Storage
 
 ## 📸 Screenshots
-## App Screenshots
 
 ### Splash Screen
 ![Splash Screen](assets/images/img.png)
