@@ -60,7 +60,7 @@ dev_dependencies:
 flutter:
   uses-material-design: true
   assets:
-    - assets/images/anxiety.png
+    - assets/images/
 #     -images/headache.png
   #     -images/anxiety.png
   # An images assets can refer to one or more resolution-specific "variants", see
