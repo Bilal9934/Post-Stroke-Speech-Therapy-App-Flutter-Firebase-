@@ -26,22 +26,22 @@ The app provides a simple, user-friendly interface and securely tracks patient p
 ![Splash Screen](assets/images/img.png)
 
 ### Login Screen
-![Login Screen](assets/images/img1.png)
+![Login Screen](assets/images/img_1.png)
 
 ### choose you role
-![choose you role](assets/images/img2.png)
+![choose you role](assets/images/img_2.png)
 
 ### tell us about yourself
-![tell us about yourself](assets/images/img3.png)
+![tell us about yourself](assets/images/img_3.png)
 
 ### select condition
-![select condition](assets/images/img4.png)
+![select condition](assets/images/img_4.png)
 
 ### your goal
-![your goal](assets/images/img5.png)
+![your goal](assets/images/img_5.png)
 
 ### patient dashboard
-![patient dashboard](assets/images/img6.png)
+![patient dashboard](assets/images/img_6.png)
 
 ### therapist dashboard
-![therapist dashboard](assets/images/img7.png)
+![therapist dashboard](assets/images/img_7.png)
